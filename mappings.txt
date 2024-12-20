@@ -1,0 +1,8 @@
+Mapping_1,plc_data,int_value,1,46,0,0,string
+Mapping_2,plc_data,int_value,1,46,0,0,int
+Mapping_3,plc_data,string_value,1,46,0,0,string
+Mapping_4,plc_data,bool_value,1,46,258,0,bool
+Mapping_5,plc_data,bool_value,1,46,258,1,bool
+Mapping_6,plc_data,bool_value,1,46,258,1,bool
+Mapping_7,plc_data,bool_value,1,46,258,1,bool
+Mapping_8,plc_data,bool_value,1,46,258,1,bool
